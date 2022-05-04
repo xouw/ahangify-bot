@@ -1,4 +1,18 @@
+<h1 align= center><b>⭐️ Music Player ⭐️</b></h1>
+<h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
+<p align="center">
+<a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-php.svg" alt="made-with-python"></a>
+<br>
+    <img src="https://img.shields.io/github/license/xouw/ahangify-bot?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/xouw/ahangify-bot?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/xouw/ahangify-bot?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/xouw/ahangify-bot?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/stars/xouw/ahangify-bot?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/xouw/ahangify-bot?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/commit-activity/w/xouw/ahangify-bot?style=for-the-badge" alt="Commit Activity">
+    <img src="https://img.shields.io/github/issues/xouw/ahangify-bot?style=for-the-badge" alt="Issues">
+</p>
 
 
 
