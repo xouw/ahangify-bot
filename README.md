@@ -27,5 +27,3 @@ $login = json_encode(['username' => 'UserName', 'password' => 'Password']);
 
 
 5. Set the webhook to `index.php`
-
-* [Send me your comments and suggestions](https://t.me/is_false)
