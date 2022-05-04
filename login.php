@@ -9,7 +9,7 @@ error_reporting(E_ALL);
 * Version: 1
 */
 
-$login = json_encode(['username' => 'devil', 'password' => '12345678']);
+$login = json_encode(['username' => 'UserName', 'password' => 'Password']);
 
 $handle = curl_init();
 curl_setopt($handle, CURLOPT_URL, 'https://ahapi.site/login');
@@ -22,7 +22,7 @@ $headers = [
   'Accept: application/json, text/plain, */*',
   'X-Mobile-App-Version: 1.7.3',
   'X-Mobile-App-Market: google-play',
-  'user-agent:Ahangify Mobile/1.7.3 (Huawei HONOR 9A on Android 8.1 O MR1 (27))',
+  'user-agent:Ahangify Mobile/1.7.3 (Samsung SM-A217F, Android 11 "30")',
   'X-Language: en',
   'Content-Type: application/json;charset=utf-8',
   'Content-Length: '.strlen($login)
