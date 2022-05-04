@@ -1,5 +1,4 @@
-<h1 align= center><b>⭐️ Music Player ⭐️</b></h1>
-<h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
+<h3 align = center>Ahangify Bot</h3>
 
 <p align="center">
     <img src="https://img.shields.io/github/license/xouw/ahangify-bot?style=for-the-badge" alt="LICENSE">
